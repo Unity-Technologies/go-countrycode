@@ -8,7 +8,7 @@
 // equality checks, hashing for usage as keys in maps. Conversions between the
 // types are zero overhead (don't even escape the stack), serialization is
 // worst case O(1), and deserialization is worst case O(n).
-package countrycode // import "github.com/Applifier/go-countrycode"
+package countrycode // import "github.com/Unity-Technologies/go-countrycode"
 
 import "unsafe"
 

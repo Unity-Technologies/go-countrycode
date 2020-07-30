@@ -1,7 +1,7 @@
 # go-countrycode
 
-[![CI status](https://github.com/Applifier/go-countrycode/workflows/CI/badge.svg)](https://github.com/Applifier/go-countrycode/actions)
-[![GoDoc](https://godoc.org/github.com/Applifier/go-countrycode?status.svg)](https://godoc.org/github.com/Applifier/go-countrycode)
+[![CI status](https://github.com/Unity-Technologies/go-countrycode/workflows/CI/badge.svg)](https://github.com/Unity-Technologies/go-countrycode/actions)
+[![GoDoc](https://godoc.org/github.com/Unity-Technologies/go-countrycode?status.svg)](https://godoc.org/github.com/Unity-Technologies/go-countrycode)
 
 Package `countrycode` provides utilities for representing countries in code, and handling their serializations and deserializations in a convenient way.
 

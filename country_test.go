@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Applifier/go-countrycode"
+	"github.com/Unity-Technologies/go-countrycode"
 )
 
 func TestFormat_Deserialize(t *testing.T) {
